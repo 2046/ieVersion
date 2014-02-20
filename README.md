@@ -40,7 +40,7 @@ require(['ieVersion'], function(ieVersion){
   </head>
   <body>
     <script>
-      if([5,6,7,8,9].indexOf(ieVersion)){
+      if([5,6,7,8,9].indexOf(ieVersion) !== -1){
         alert('请更新您的浏览器到最新版');
       }
     </script>
