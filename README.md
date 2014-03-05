@@ -48,6 +48,19 @@ require(['ieVersion'], function(ieVersion){
 </html>
 ```
 
+## 支持
+
+ - IE6+
+ - Chrome
+ - Firefox
+ - Safari
+ - 360安全浏览器6
+ - 世界之窗 3
+ - 搜狗高速浏览器
+ - 猎豹安全浏览器
+ - 360极速浏览器
+ - 傲游云浏览器
+
 ## License
 
 The MIT License (MIT)
